@@ -3,114 +3,36 @@
         "access_level": "student",
         "book_issued": [
         ],
-        "course": "BEI",
-        "id": "076bei026",
-        "name": "Prashant Karn",
+        "course": "BCT",
+        "id": "078bct027",
+        "name": "Pabin Khanal",
         "part": "2",
         "password": "1234",
-        "roll": "076bei026",
-        "year": "1"
-    },
-    {
-        "access_level": "student",
-        "book_issued": [
-        ],
-        "course": "BEI",
-        "id": "076bei024",
-        "name": "Prakriti Timalsina",
-        "part": "2",
-        "password": "1234",
-        "roll": "076bei024",
-        "year": "1"
-    },
-    {
-        "access_level": "student",
-        "book_issued": [
-        ],
-        "course": "BEI",
-        "id": "076bei019",
-        "name": "kshitiz pandey",
-        "part": "2",
-        "password": "1234",
-        "roll": "076bei019",
-        "year": "1"
-    },
-    {
-        "access_level": "student",
-        "book_issued": [
-        ],
-        "course": "BEI",
-        "id": "076BEI041",
-        "name": "Dikshya parajuli",
-        "part": "2",
-        "password": "1234",
-        "roll": "076BEI041",
-        "year": "1"
-    },
-    {
-        "access_level": "student",
-        "book_issued": [
-        ],
-        "course": "bei",
-        "id": "076BEI035",
-        "name": "Sandesh sitaula",
-        "part": "2",
-        "password": "1234",
-        "roll": "076BEI035",
-        "year": "1"
-    },
-    {
-        "access_level": "student",
-        "book_issued": [
-            "B009"
-        ],
-        "course": "BEI",
-        "id": "076bei028",
-        "name": "Rahul Shrestha",
-        "part": "2",
-        "password": "12345",
-        "roll": "076bei028",
-        "year": "1"
-    },
-    {
-        "access_level": "student",
-        "book_issued": [
-            "b004",
-            "B005",
-            "B006",
-            "B007"
-        ],
-        "course": "BXX",
-        "id": "",
-        "name": "The Void",
-        "part": "2",
-        "password": "",
-        "roll": "",
-        "year": "1"
+        "roll": "078bct027",
+        "year": "2"
     },
     {
         "access_level": "student",
         "book_issued": [
         ],
         "course": "BCT",
-        "id": "078BCT027",
-        "name": "Pabin Khanal",
+        "id": "076bei024",
+        "name": "Neha Shah",
         "part": "2",
         "password": "1234",
-        "roll": "078BCT027",
+        "roll": "076bei024",
         "year": "2"
     },
     {
         "access_level": "student",
         "book_issued": [
-            "B003"
         ],
         "course": "BEI",
-        "id": "076bei025",
-        "name": "Pramesh Shrestha",
+        "id": "078bct032",
+        "name": "Purushottam Gajurel",
         "part": "2",
         "password": "1234",
-        "roll": "076bei025",
-        "year": "1"
+        "roll": "078bct032",
+        "year": "2"
     }
 ]
